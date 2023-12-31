@@ -1,0 +1,10 @@
+header {
+  background-color: teal;
+  text-align: center;
+}
+
+.logo{
+    font-size: 30px;
+    text-align: center;
+    color: white;
+}
